@@ -1,0 +1,6 @@
+name: WelcomeTitle
+version : 0.2
+main: WelcomeTitle.WelcomeTitle
+author: Falcort
+website: http://thibaultsouquet.fr/
+description: This plugin add a custom title for the player on login.
